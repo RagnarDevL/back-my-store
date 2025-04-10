@@ -1,0 +1,1 @@
+{"version":3,"file":"wompi.config.js","sourceRoot":"","sources":["../../src/config/wompi.config.ts"],"names":[],"mappings":";;;AAAa,QAAA,WAAW,GAAG;IACzB,WAAW,EAAE,yCAAyC;IACtD,UAAU,EAAE,+CAA+C;IAC3D,WAAW,EAAE,+CAA+C;IAC5D,UAAU,EAAE,kDAAkD;IAC9D,aAAa,EAAE,qDAAqD;IACpE,gBAAgB,EAAE,kVAAkV;IACpW,QAAQ,EAAE,KAAK;IACf,aAAa,EAAE,8BAA8B;CAC9C,CAAC"}
